@@ -6,7 +6,7 @@ package com.learn.designpattern.singleton;
  * effective java中比较推荐的一种方式
  * </p>
  *
- * @author Artis-Q
+ * @author Artist-Q
  * @version 1.0, 24/02/2021
  * @since 0.1.0
  */

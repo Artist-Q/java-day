@@ -3,7 +3,7 @@ package com.learn.designpattern.singleton;
 /**
  * 懒汉式
  *
- * @author Artis-Q
+ * @author Artist-Q
  * @version 1.0, 24/02/2021
  * @since 0.1.0
  */

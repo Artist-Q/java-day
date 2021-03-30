@@ -3,7 +3,7 @@ package com.learn.designpattern.singleton;
 /**
  * 静态内部类
  *
- * @author Artis-Q
+ * @author Artist-Q
  * @version 1.0, 24/02/2021
  * @since 0.1.0
  */
